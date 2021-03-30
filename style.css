@@ -1,0 +1,155 @@
+div.jumbotron{
+    background: url('img/hog.jpg') no-repeat;
+    background-size: cover;
+  }
+  h1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+  }
+  p.jumbo{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  p{ 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+  
+  .navbar{
+  background-image: linear-gradient( 270deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%);
+  
+  }
+  
+  p.conteudo{
+    color:#511ecb;
+  }
+  
+  div.container.mgmc{
+    background-color: rgba(255, 13, 243, 0.219);
+    border-radius: 10px;
+    padding: 10px;
+  } 
+  
+  body{
+    background-color: #F6F6F6;
+  }
+  /* posts */
+  div.col-12.col-md-8{
+    background-color: #b3bbc1;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  /* lateral */
+  div.col-6.col-md-4{
+  /* background-color: #e5ecf4; */
+  background: linear-gradient(360deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%);
+  margin-top: 15px;
+  border-radius: 10px;
+  }
+  /* comentarios forum */
+  div.caixam{
+    background-color: #efefef; 
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  
+    
+  }
+  
+  h3.tt{
+  margin-bottom: 20px;
+  color:black;
+  padding-top: 10px;
+  margin: 10px;
+  padding-bottom: 10px;
+  
+  }
+  h6.tt{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  
+  p.contlat{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line: 5px;
+    line-height: 32px;
+    /* line-spacing: -0.003em; */
+   
+  }
+  
+  h2.sonse{
+    color:green;
+  }
+  h2.lufa{
+    color:rgb(218, 205, 25);
+  }
+  h2.grif{
+    color:rgb(207, 16, 16);
+  }
+  h2.corv{
+    color:rgb(18, 18, 184);
+  }
+  
+  p.textpag{
+    margin-top: 30px; 
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    text-align: left;
+    line: 5px;
+    line-height: 32px;
+    /* line-spacing: -0.003em; */
+    margin-top: 2em
+  }
+  
+  /* redonda img */
+    .profile{
+        margin-left:auto; 
+        margin-right: auto;
+        display: block;
+         width:60%; 
+         border-radius: 50%;
+        
+      }
+  /* botao rx comentario  */
+      button.btn.btn-primary {
+        background-color: #8A4FFF;
+        border: none;
+        
+      }
+  /* botao rx comentarios hover */
+      button.btn.btn-primary:hover{
+      background-color: #511ecb;
+  }
+  
+  
+  li.nav-item a.nav-link:hover {
+      background: #511ecb;
+  
+  
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color:white;
+    font-weight:bold;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color:white;
+  }
+  
+  .nav-pills .nav-link.active{
+  background: #8A4FFF;
+  }
